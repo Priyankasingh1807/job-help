@@ -8,4 +8,7 @@ Now one surprise section added is of discussion Chamber which is connected with 
 This website is fully responsive..
 
 Home Page
-![image](https://github.com/user-attachments/assets/9d2891b9-b857-435a-a8de-f67a095f7380)
+![215274848-ce9787c7-8bdc-43c5-9f58-f7862b4cecd7](https://github.com/user-attachments/assets/26fa92bc-e88d-4428-bc12-1150e2bc3da6)
+
+job pages
+![215274857-f2aefecd-f349-4c8c-b703-0c4ad410159a](https://github.com/user-attachments/assets/1171f9da-e350-45c6-96ed-b81c222f2ce7)
